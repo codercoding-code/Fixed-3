@@ -48,7 +48,8 @@ function App() {
       title: 'Economic & Sanctions',
       description: 'Israel lobbies for sanctions against Iran. Economic pressure plays a key role in their strategic rivalry.'
     },
-  }return (
+  }
+    return (
     <div className="flex h-screen">
       <aside className="w-64 border-r bg-white p-4">
         <h2 className="text-xl font-bold mb-4">Iran-Israel Analysis</h2>
